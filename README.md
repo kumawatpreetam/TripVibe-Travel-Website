@@ -61,14 +61,14 @@ TripVibe is a sleek and responsive travel website designed to offer a seamless u
 
 ## 🌍 Screenshots
 
-![Hero](https://github.com/kumawatpreetam/screenshoot/hero.jpg)
-![MoreInfo](https://github.com/kumawatpreetam/screenshoot/more-info.jpg)
-![Discover](https://github.com/kumawatpreetam/screenshoot/discover.jpg)
-![Experience](https://github.com/kumawatpreetam/screenshoot/experience.jpg)
-![Video](https://github.com/kumawatpreetam/screenshoot/video-tour.jpg)
-![Place](https://github.com/kumawatpreetam/screenshoot/choose-place.jpg)
-![NewsLetter](https://github.com/kumawatpreetam/screenshoot/newsletter.jpg)
-![Footer](https://github.com/kumawatpreetam/screenshoot/footer.jpg)
+![Hero](screenshoot/hero.jpg)
+![MoreInfo](screenshoot/more-info.jpg)
+![Discover](screenshoot/discover.jpg)
+![Experience](screenshoot/experience.jpg)
+![Video](screenshoot/video-tour.jpg)
+![Place](screenshoot/choose-place.jpg)
+![NewsLetter](screenshoot/newsletter.jpg)
+![Footer](screenshoot/footer.jpg)
 
 
 
